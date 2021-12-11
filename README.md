@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TODASCO99
-- 👀 I’m interested in coding for network security and related applications for ai.
+- 👀 I’m interested in coding for network security, related applications for ai,
+-   and a dynamic updater for "families" of Qubes VMs.
 - 🌱 I’m currently learning python3 and C, novice level.
 - 💞️ I’m looking to collaborate on don't know yet.
 - 📫 How to reach me. 'to be announced'. :)
